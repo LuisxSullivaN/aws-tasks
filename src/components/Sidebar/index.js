@@ -15,6 +15,9 @@ const Sidebar = withRouter(props => {
           <Link to="/instanceBackup">Instance Backup</Link>
         </Menu.Item>
         <Menu.Item key="3" >
+          Instance Upgrade
+        </Menu.Item>
+        <Menu.Item key="4" >
           Update Launch Config
         </Menu.Item>
       </Menu>
